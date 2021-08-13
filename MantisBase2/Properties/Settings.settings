@@ -36,7 +36,7 @@
       <Value Profile="(Default)" />
     </Setting>
     <Setting Name="REPORT_NAME" Type="System.String" Scope="User">
-      <Value Profile="(Default)">CSharpSeleniumTemplateReport</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="DEFAUL_APPLICATION_URL" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
